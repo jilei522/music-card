@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/jilei522/music-card/blob/main/card.svg"></div>
+<div align="center"><img src="https://github.com/jilei522/netease-cloud-music-card/blob/main/card.svg"></div>
 
 <div align="center"><h1>Netease Cloud Music Card</h1></div>
 
